@@ -60,12 +60,12 @@ figure {
   background-position: center;
 }
 
-.float-left {
+.float-left-img {
   float: left;
   margin-right: 25px;
 }
 
-.float-right {
+.float-right-img {
   float: right;
   margin-left: 25px;
 }
