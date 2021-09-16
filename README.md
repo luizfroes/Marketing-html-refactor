@@ -14,3 +14,5 @@ Demo: https://github.com/luizfroes/Marketing-html-refactor
 - Added some high level comments on the HTML and CSS files making easy for everybody understand them.
 
 ## Horiseon Marketing Website
+
+![](/Users/luizfroes/coding_bootcamp/homeworks/marketing-html-refactor/assets/images/horeseon-website.png)
