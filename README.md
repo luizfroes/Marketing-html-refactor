@@ -6,13 +6,13 @@ Demo: https://github.com/luizfroes/Marketing-html-refactor
 
 ## Brief description of the steps
 
-- Rewrite the code ensuring the use of Semantic HTML elements and keeping all the code in logical structure.
+- Rewrite the code ensuring the use of **Semantic HTML** elements and keeping all the code in logical structure.
 - Added a descriptive **Title** to the webpage.
 - Fixed the Navigation bar links.
 - Improved the accessibility of the website, adding an **alt atributte** to all the images.
-- Refactored the CSS file reducing all duplications.
-- Added some high level comments on the HTML and CSS files making easy for everybody understand them.
+- Refactored the **CSS file** reducing all duplications.
+- Added some **high level comments** on the HTML and CSS files making easy for everybody understand them.
 
 ## Horiseon Marketing Website
 
-![](/Users/luizfroes/coding_bootcamp/homeworks/marketing-html-refactor/assets/images/horeseon-website.png)
+![](assets/images/horeseon-website.png)
