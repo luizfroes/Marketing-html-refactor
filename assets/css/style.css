@@ -58,12 +58,14 @@ nav a {
   background-position: center;
 }
 
+/*This is a group selector for the main and the aside */
 .main-content,
 .benefits {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   color: #ffffff;
 }
 
+/*This is the class selector for class name of main */
 .main-content {
   width: 75%;
   display: inline-block;
@@ -95,6 +97,7 @@ nav a {
   float: right;
 }
 
+/*This is the class selector for class name of aside */
 .benefits {
   margin-right: 20px;
   padding: 20px;
