@@ -4,6 +4,8 @@ Flat and responsive Marketing website, designed and coded by Luiz Carlos Froes.
 
 Demo: https://github.com/luizfroes/Marketing-html-refactor/tree/dev
 
+Page URL: https://luizfroes.github.io/Marketing-html-refactor/#social-media-marketing
+
 ## Brief description of the steps done
 
 - Rewrote the code ensuring the use of **Semantic HTML** elements and keeping all the code in logical structure.
